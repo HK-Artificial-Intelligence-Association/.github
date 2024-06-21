@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./pic/HKAS_logo_black.png">
+    <img src="../pic/HKAS_logo_black.png">
 </div>
 
 
