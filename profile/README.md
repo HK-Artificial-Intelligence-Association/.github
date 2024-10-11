@@ -28,3 +28,15 @@
 
 我们会将一些有意思的或者觉得可以帮助到别人的东西开源出来。您可以保持对我们的关注💕。
 
+***
+
+#### 您可以在这里找到我们：
+
+##### Contact
+
+- 邮箱：[official@hkai.ai](mailto:official@hkai.ai)
+- Bilibili: [@人工摸鱼办公室](https://space.bilibili.com/3546666563012657)
+- 小红书：[@人工摸鱼办公室](https://www.xiaohongshu.com/user/profile/66276d2c000000000b033edf)
+
+
+
